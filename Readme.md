@@ -1,7 +1,7 @@
 # 🛡️ ASVSI – A Secure Vision for Smart Infrastructure
 
 **Welcome to the official GitHub organization of ASVSI!**  
-We are a blockchain-native company focused on delivering secure, scalable, and innovative decentralized systems through smart contract auditing, ZK technologies, and infrastructure tools for the Web3 ecosystem.
+We are a blockchain-native company focused on building secure, scalable, and innovative decentralized systems through smart contract auditing, ZK technologies, and infrastructure tools for the Web3 ecosystem.
 
 ---
 
@@ -26,7 +26,28 @@ At **ASVSI**, we aim to:
 | 🌐 **Open Source Contributions** | Public toolkits, reusable modules, and security checklists for the community |
 
 ---
+## 🧠 Security Expertise
 
+Our work focuses on identifying and preventing:
+- Reentrancy & access control flaws
+- Oracle manipulation & price attacks
+- MEV & sandwich vulnerabilities
+- Upgradeability & proxy risks
+- ZK circuit logic & soundness issues
+
+We follow industry standards inspired by OpenZeppelin,
+Code4rena, and leading audit firms.
+
+---
+## 🎯 Who We Work With
+
+- DeFi protocols & AMMs
+- NFT marketplaces
+- Layer 2 & ZK projects
+- DAOs & Web3 startups
+- Teams preparing for mainnet launch
+
+---
 ## 🧰 Tech Stack & Tools
 
 - **Solidity**, **Vyper**
